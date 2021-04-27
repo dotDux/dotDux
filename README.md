@@ -12,4 +12,7 @@ You can follow me on these platforms to get more information about me and follow
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 <br>
 <br>
-<a href="https://www.python.org" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-Python-0076B6?style=flat-square&logo=python&logoColor=white"></a> <a href="https://www.w3schools.com/html/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a><img alt="npm" align="center" src="https://img.shields.io/badge/-CSS3-17A89F?style=flat-square&logo=css3&logoColor=white"><img alt="npm" align="center" src="https://img.shields.io/badge/-PHP-833BAA?style=flat-square&logo=php&logoColor=white">
+<a href="https://www.w3schools.com/python/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-Python-0076B6?style=flat-square&logo=python&logoColor=white"></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-CSS3-17A89F?style=flat-square&logo=css3&logoColor=white"></a>
+<img alt="npm" align="center" src="https://img.shields.io/badge/-PHP-833BAA?style=flat-square&logo=php&logoColor=white">
