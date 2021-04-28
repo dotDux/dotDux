@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dotdux&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" width="50%">
 <img width="50%" height="6px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotdux&theme=algolia&layout=compact" width="50%">
-Hi 👋 I am a young developer from <img src="https://image.flaticon.com/icons/svg/555/555560.svg" width="20"> Turkey.
+Hi 👋 I am a young developer from <a href="https://tr.wikipedia.org/wiki/Türkiye" target="_blank"><img src="https://image.flaticon.com/icons/svg/555/555560.svg" width="20"></a> Turkey.
 You can follow me on these platforms to get more information about me and follow news about my projects!
 <br>
 <br>
