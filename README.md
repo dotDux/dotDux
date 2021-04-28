@@ -18,6 +18,6 @@ The passion to develop started as a hobby at a young age and now I am always try
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-CSS3-17A89F?style=flat-square&logo=css3&logoColor=white"></a>
 <a href="https://www.w3schools.com/php/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-PHP-833BAA?style=flat-square&logo=php&logoColor=white"></a>
-<a href="https://www.w3schools.com/java/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-Java-FF7F00?style=flat-square&logo=java&logoColor=white"></a>
+ <a href="https://www.w3schools.com/java/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-Java-FF7F00?style=flat-square&logo=java&logoColor=white"></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img alt="npm" align="center" src="https://img.shields.io/badge/-C%20Sharp-008000?style=flat-square&logo=C%20sharp&logoColor=white"></a>
 
