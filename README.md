@@ -6,7 +6,9 @@ Hi 👋 I am a young developer from <img src="https://image.flaticon.com/icons/s
 You can follow me on these platforms to get more information about me and follow news about my projects!
 <br>
 <br>
-<a href="https://twitter.com/absoft1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a> <a href="https://discord.com/users/711342691656532021/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/dotdux" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/dotdux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC3B83?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href="https://discord.com/users/711342691656532021/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
 <br>
 <br>
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
